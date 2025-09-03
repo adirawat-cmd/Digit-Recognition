@@ -1,3 +1,5 @@
 numpy
 pandas
 tensorflow
+streamlit
+opencv-python
